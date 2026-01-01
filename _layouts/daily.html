@@ -12,5 +12,6 @@ title: {{ site.name }}
 {{ content }}
 
 {%- assign sharings = site.posts | where: "categories", "sharing" -%}
-  
+{%- assign enUrl = "/en" | append : page.permalink -%}
+
 </div>
