@@ -1,4 +1,9 @@
 ---
+layout: daily
+categories: daily
+language: Chinese
+title: 開天闢地
+date: 2026-01-01
 permalink: /daily/genesis-day1.html
 ---
 
